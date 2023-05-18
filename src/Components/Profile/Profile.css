@@ -1,0 +1,51 @@
+span{
+    border-bottom: 4px solid black;
+}
+
+div h1{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.profile{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+.logo{
+    width: 80%;
+}
+
+.end-input{
+    display: flex;
+    flex-direction: column;
+}
+
+/* .end-input input{
+    width: 130px;
+    border: 1px solid;
+} */
+
+.checkbox{
+    width: 400px;
+    display: flex;
+    gap: 20px;
+    background: #EBFFF7;
+    font-size: 15px;
+    align-items: center;
+}
+
+button{
+    background: #005642;
+    float: right;
+    width: 100px;
+    height:30px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: none;
+    color: white;
+}
+
+  
+
